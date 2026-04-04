@@ -15,4 +15,4 @@ class auto {
     echo "Name: " . $this->name . ". Color: " . $this->color .".<br>";
   }
 }
-?>
+
